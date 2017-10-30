@@ -1,0 +1,33 @@
+.jumbotron{
+  background-color: #4E3779 !important;
+  color: #ffffff !important;
+}
+#twitchLogo{
+  width: 100px;
+  height: 100px;
+}
+.channel-logo{
+  heigh: 100px;
+  width: 100px;
+}
+
+.channel{
+  background-color: #664c9b;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.channel:hover{
+  background-color: #4E3779;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    color: #ffffff;
+    background-color: #4E3779;
+    margin-top: 30px;
+}
